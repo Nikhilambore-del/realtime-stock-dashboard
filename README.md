@@ -2,13 +2,13 @@
 
 > A production-grade data engineering showcase demonstrating stream processing, anomaly detection, and real-time analytics
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://YOUR-USERNAME.github.io/realtime-stock-dashboard/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://nikhilambore-del.github.io/realtime-stock-dashboard/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-ambore-299189262)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nikhil.ambore@aogjob.com)
 
 ## 🚀 Live Demo
 
-**[👉 Click here to view live dashboard](https://YOUR-USERNAME.github.io/realtime-stock-dashboard/)**
+**[👉 Click here to view live dashboard](https://nikhilambore-del.github.io/realtime-stock-dashboard/)**
 
 *Click "Start Stream" to see real-time data processing in action!*
 
@@ -169,5 +169,6 @@ Built to demonstrate real-world data engineering patterns and showcase skills de
 ⭐ **Star this repo** if you find it helpful!  
 🔔 **Watch** for updates and new features  
 🍴 **Fork** to build your own version
+
 
 **Built with ❤️ by [Nikhil Ambore](https://www.linkedin.com/in/nikhil-ambore-299189262)**
