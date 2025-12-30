@@ -1,0 +1,64 @@
+{
+  "name": "realtime-stock-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time stock market analytics platform demonstrating stream processing and anomaly detection",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR-USERNAME/realtime-stock-dashboard.git"
+  },
+  "keywords": [
+    "data-engineering",
+    "real-time",
+    "stream-processing",
+    "kafka",
+    "pyspark",
+    "analytics",
+    "dashboard",
+    "anomaly-detection",
+    "react",
+    "visualization"
+  ],
+  "author": {
+    "name": "Nikhil Ambore",
+    "email": "nikhil.ambore@aogjob.com",
+    "url": "https://www.linkedin.com/in/nikhil-ambore-299189262"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR-USERNAME/realtime-stock-dashboard/issues"
+  },
+  "homepage": "https://YOUR-USERNAME.github.io/realtime-stock-dashboard/",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.5.0"
+  },
+  "devDependencies": {},
+  "technologies": {
+    "frontend": [
+      "React 18",
+      "Recharts",
+      "Tailwind CSS",
+      "Lucide Icons"
+    ],
+    "concepts": [
+      "Stream Processing",
+      "Real-time Analytics",
+      "Anomaly Detection",
+      "Data Visualization",
+      "Event-Driven Architecture"
+    ],
+    "production-equivalent": [
+      "Apache Kafka",
+      "PySpark",
+      "Delta Lake",
+      "Apache Airflow",
+      "AWS/Azure"
+    ]
+  }
+}
